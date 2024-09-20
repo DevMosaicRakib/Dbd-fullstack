@@ -44,8 +44,8 @@ Ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-fullstack-react-django.git
-cd ecommerce-fullstack-react-django
+git clone https://github.com/DevMosaicRakib/Dbd-fullstack.git
+cd Dbd-fullstack
 ```
 
 ### Backend Setup
