@@ -53,7 +53,7 @@ cd Dbd-fullstack
 1. **Navigate to the `backend/` directory:**
 
    ```bash
-   cd backend
+   cd decobdApi
    ```
 
 2. **Create a virtual environment and install dependencies:**
@@ -66,7 +66,7 @@ cd Dbd-fullstack
 
 3. **Set up environment variables:**
 
-   Create a `.env` file in the `backend/` directory and add the following:
+   Create a `.env` file in the `decobdApi/` directory and add the following:
 
    ```env
    SECRET_KEY=your_django_secret_key
